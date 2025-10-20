@@ -93,18 +93,10 @@ pip install -r requirements.txt
 
 ---
 
-## Citation
 
-If you use this project in your research, please cite:
-```
-Hasnat, M. A. (2025). CVD-XAI: Explainable AI for Cardiovascular Disease Prediction.
-```
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -112,4 +104,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Md Abrar Hasnat**  
 BRAC University Graduate, Computer Science and Engineering  
-Email: your.email@example.com
+Email: md.abrar.hasnat@g.bracu.ac.bd
