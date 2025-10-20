@@ -85,20 +85,7 @@ CVD-XAI/
 - SHAP  
 - Matplotlib / Seaborn  
 
-To install all dependencies:
-```bash
-pip install -r requirements.txt
-```
-*(You can create a `requirements.txt` file containing the packages listed above.)*
 
----
-
-
-
----
-
-
----
 
 ## Contact
 
