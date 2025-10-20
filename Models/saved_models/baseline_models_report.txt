@@ -1,0 +1,32 @@
+BASELINE MODELS COMPARISON REPORT
+==================================================
+Generated on: 2025-09-24 15:29:38
+Dataset: 183,824 training samples, 45,957 test samples
+Positive class ratio: 0.103
+
+PERFORMANCE SUMMARY:
+------------------------------
+LightGBM:
+  Test AUC: 0.8385
+  Test F1: 0.3777
+  CV AUC: 0.8375 (±0.0024)
+  Time: 10.1s
+
+XGBoost:
+  Test AUC: 0.8372
+  Test F1: 0.3774
+  CV AUC: 0.8362 (±0.0024)
+  Time: 285.6s
+
+Logistic Regression:
+  Test AUC: 0.8355
+  Test F1: 0.3813
+  CV AUC: 0.8356 (±0.0026)
+  Time: 4.5s
+
+Random Forest:
+  Test AUC: 0.8327
+  Test F1: 0.3780
+  CV AUC: 0.8321 (±0.0033)
+  Time: 12.4s
+

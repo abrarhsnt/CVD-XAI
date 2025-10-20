@@ -1,0 +1,88 @@
+{
+    "logistic_regression": {
+        "auc_roc": 0.8355,
+        "auc_pr": 0.3725,
+        "f1_score": 0.3813,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.0
+    },
+    "random_forest_baseline": {
+        "auc_roc": 0.8327,
+        "auc_pr": 0.3598,
+        "f1_score": 0.378,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.0
+    },
+    "xgboost_baseline": {
+        "auc_roc": 0.8372,
+        "auc_pr": 0.3732,
+        "f1_score": 0.3774,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.0
+    },
+    "lightgbm_baseline": {
+        "auc_roc": 0.8385,
+        "auc_pr": 0.3758,
+        "f1_score": 0.3777,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.0
+    },
+    "xgboost": {
+        "auc_roc": 0.8359896782656906,
+        "auc_pr": 0.37131596697548,
+        "f1_score": 0.41721563460693895,
+        "precision": 0.31954254961318534,
+        "recall": 0.6008855154965211,
+        "accuracy": 0.8267510934134081,
+        "threshold_used": 0.6499999999999999
+    },
+    "lightgbm": {
+        "auc_roc": 0.8367566213409527,
+        "auc_pr": 0.37266435869494513,
+        "f1_score": 0.4201133144475921,
+        "precision": 0.31630585475098644,
+        "recall": 0.6253426101623445,
+        "accuracy": 0.8218334530104228,
+        "threshold_used": 0.6499999999999999
+    },
+    "random_forest": {
+        "auc_roc": 0.830110727753397,
+        "auc_pr": 0.35993523079941286,
+        "f1_score": 0.4082047116165719,
+        "precision": 0.3006281782829794,
+        "recall": 0.635673624288425,
+        "accuracy": 0.8097787061818656,
+        "threshold_used": 0.5999999999999999
+    },
+    "cnn": {
+        "auc_roc": 0.825994814495802,
+        "auc_pr": 0.35304302161781576,
+        "f1_score": 0.4016256912519155,
+        "precision": 0.2935904928891486,
+        "recall": 0.6354627872654438,
+        "accuracy": 0.8045781926583545,
+        "threshold_used": 0.6499999999999999
+    },
+    "rnn": {
+        "auc_roc": 0.7722882265800936,
+        "auc_pr": 0.2808591699221473,
+        "f1_score": 0.3158222498999155,
+        "precision": 0.20013530273988048,
+        "recall": 0.748471431583386,
+        "accuracy": 0.6653175794764671,
+        "threshold_used": 0.49999999999999994
+    },
+    "ensemble": {
+        "auc_roc": 0.8371220819005506,
+        "auc_pr": 0.37356947599166335,
+        "f1_score": 0.37574257425742574,
+        "precision": 0.24551982920359708,
+        "recall": 0.8001265022137888,
+        "accuracy": 0.7256130730900624,
+        "threshold_used": 0.5
+    }
+}
